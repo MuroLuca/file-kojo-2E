@@ -1,0 +1,19 @@
+def quadrato{
+
+repeat(4)  {
+forward(100)
+right(90)
+
+     }
+
+}
+
+~~~~~~~~~~~~~~~~~~~~~~
+
+def shape() {
+
+repeat(5) {
+forward(100)
+right(360/5)
+      }
+}
